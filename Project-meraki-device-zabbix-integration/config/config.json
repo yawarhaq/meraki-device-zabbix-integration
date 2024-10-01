@@ -1,0 +1,12 @@
+{
+    "meraki_api_key": "your_meraki_api_key",
+    "zabbix_url": "https://your_zabbix_server_url",
+    "zabbix_user": "your_username",
+    "zabbix_password": "your_password",
+    "zabbix_group_id": "your_zabbix_group_id",
+    "zabbix_template_name": "Your Template Name",
+    "meraki_org_id": "your_organization_id",
+    "meraki_network_id": "your_network_id",
+    "specific_device_serial": "desired_device_serial_id"
+  }
+  
